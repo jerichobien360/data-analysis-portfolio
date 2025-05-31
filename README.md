@@ -20,6 +20,7 @@ Analysis of online retail transactions to uncover sales patterns, customer behav
 - Jupyter Notebook for analysis
 
 ## Project Structure
+```
 data-analysis-portfolio/
 ├── data/
 │   └── online_retail.xlsx
@@ -33,7 +34,7 @@ data-analysis-portfolio/
 │   ├── monthly_sales_trend.png
 │   └── top_products.png
 └── README.md
-
+```
 ## How to Run
 1. Clone repository
 2. Install requirements: `pip install -r requirements.txt`
